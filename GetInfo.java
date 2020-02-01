@@ -3,23 +3,9 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-//***********************************************************************
-//***********************************************************************
-//*****   ELDER/Turkoanje/Barkochba/Pancho  VERSION   NEW 06/2014   *****
-//*****   Range testing for getInt and getDouble      	            *****                        
-//*****   Allows for use of tabbing with escape sequencing          ***** 
-//*****                                                             ***** 
-//*****   ELDER/Turkoanje/Barkochba         VERSION   NEW 10/2009   *****
-//*****   Contains a resizeable getList (min 200 x 200)             *****                        
-//*****                                                             ***** 
-//***********************************************************************
-//***********************************************************************
-
-
  /**
   *This class is meant to simplify the task of getting input.
-  *It was made to allow students to get input before they learn about JOptionPane
-  *or other similiar methods.  It also does not require any classes outside the 
+  * This class does not require any classes outside the 
   *Java Standard Class Library (i.e. no author/text specific classes), and helps create
   *a smooth introduction to using class methods.
   *
